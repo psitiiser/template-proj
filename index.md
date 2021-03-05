@@ -1,27 +1,18 @@
-## Physics Society of IISER, Thiruvananthapuram
+# Physics Society of IISER, Thiruvananthapuram
 
-You can use the [editor on GitHub](https://github.com/psitiiser/template-proj/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+PSI(T) is a student-run club at the Indian Institute of Science Education and Research, Thiruvananthapuram.
 
 ```markdown
-Syntax highlighted code block
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```
 
-# Header 1
-## Header 2
-### Header 3
+### Series on Instagram 
 
-- Bulleted
-- List
+```markdown
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+- **Frontier**
+- _Curtain Call_
+- `Physics Behind`
 
 [Link](url) and ![Image](src)
 ```
